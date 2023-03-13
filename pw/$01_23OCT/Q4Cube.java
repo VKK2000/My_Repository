@@ -1,3 +1,4 @@
+
 /*
 Q4 - Write a Java program to calculate the cube of a number. (Easy)
 Sample Input : 4
@@ -12,9 +13,9 @@ public class Q4Cube {
 		Scanner sc = new Scanner(System.in);
 
 		int number = sc.nextInt();
-		
-		System.out.println(number*number*number);
-		
+
+		System.out.println(number * number * number);
+
 		sc.close();
 
 	}

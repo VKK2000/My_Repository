@@ -1,3 +1,4 @@
+package pwSkills.$03_27octOperators;
 
 /*Q3 - Write a program to calculate the sum of the digits of a 3-digit number.
 Input: 132
