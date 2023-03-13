@@ -1,4 +1,3 @@
-package pwSkills.$04_29octConditionals;
 
 /*Q4 - Write a program to print positive number entered by the user, if user enters a negative
 number, it is skipped

@@ -1,4 +1,3 @@
-package pwSkills.$04_29octConditionals;
 
 /*Q5 - Create a calculator using switch statement to perform addition, subtraction, multiplication
 and division.

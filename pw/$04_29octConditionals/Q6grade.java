@@ -1,4 +1,3 @@
-package pwSkills.$04_29octConditionals;
 
 /*Q6 - Write a program to calculate marks to grades . Follow the conversion rule as given below :
 Sample Input :  Enter Your Marks: 98

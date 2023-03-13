@@ -1,4 +1,3 @@
-package pwSkills.$04_29octConditionals;
 
 /*Q2 - Write a program to print absolute value of a number entered by the user.
 sample Input : -1
