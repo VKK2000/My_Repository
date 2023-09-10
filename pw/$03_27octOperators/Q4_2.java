@@ -5,7 +5,8 @@ ii) at least one of the conditions ‘a < 50" or'a < b'is true. */
 public class Q4_2 {
     public static void main(String[] args) {
         int a = 55, b = 70;
-        System.out.println(a < 50 || a < b);
+        if (a < 50 || a < b)
+            System.out.println(true);
 
     }
 
